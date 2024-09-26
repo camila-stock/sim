@@ -26,6 +26,11 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+numbers/
+montecarlo/
+colas/
+colas-euler/
+montecarloMemoria/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
